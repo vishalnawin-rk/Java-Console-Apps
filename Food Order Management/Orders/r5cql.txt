@@ -1,0 +1,7 @@
+Order ID: 1
+Order Food ID: 5
+Order Food: Burger
+Order Quantity: 5
+Price: 1000.0
+Total Price: 1000.0
+Payment Method: COD

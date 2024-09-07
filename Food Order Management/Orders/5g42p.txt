@@ -1,0 +1,7 @@
+Order ID: 1
+Order Food ID: 4
+Order Food: Rice
+Order Quantity: 2
+Price: 200.0
+Total Price: 200.0
+Payment Method: COD
