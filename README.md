@@ -1,5 +1,4 @@
 # Java-Console-Apps
-Console Applications in Java
 
 - 2️⃣0️⃣4️⃣8️⃣ 2048 Game
 - 🧱🥎 Brick Ball Game
